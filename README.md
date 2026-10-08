@@ -1,1 +1,1 @@
-"# Lista-de-exercicios-em-C" 
+# Lista de Exercícios de Programação em C
