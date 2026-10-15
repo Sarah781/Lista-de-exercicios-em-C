@@ -2,12 +2,13 @@
 
 int main() {
     int x = 10;
-    int y = 20;
+    float y = 20.5;
+    char z = 'A';
 
-    x = y;
 
     printf("%d\n", x);
-    printf("%d\n", y);
+    printf("%.1f\n", y);
+    printf("%c\n", z);
 
     return 0;
 }

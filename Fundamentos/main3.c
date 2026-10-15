@@ -2,11 +2,6 @@
 
 int main() {
     int x = 10;
-
-    x = x + 5;
-
-    x = x - 3;
-
-printf("%d\n", x);
-return 0;   
+    printf("x = %d\n", x); //%d é o simbolo que indica que é uma letra, e o \n é para pular uma linha
+    return 0; 
 }

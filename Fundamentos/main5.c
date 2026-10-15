@@ -1,11 +1,8 @@
 #include <stdio.h>
 
-int main(){
-    int x = 10;
-    int y = 5;
+int main() {
 
-    x = x + y;
+    printf("Olá!\n");
 
-    printf("%d\n", x);
     return 0;
 }
